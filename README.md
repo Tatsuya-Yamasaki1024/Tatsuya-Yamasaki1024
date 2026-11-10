@@ -18,11 +18,9 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 
 <!-- ↓ Tutorial 5〜11 で push した自分のリポジトリへのリンクを並べる。
      並べ方は自由（後述の TIP 参照）。「特に頑張ったもの」を上に持ってくるのもあり。 -->
-
-- [task-api-practice](https://github.com/<あなた>/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
-- [auth-app-practice](https://github.com/<あなた>/auth-app-practice) — 認証機能の実装（Laravel Fortify）
-- [self-introduction-practice](https://github.com/<あなた>/self-introduction-practice) — 自己紹介ページ（HTML5）
-- ...（他のリポジトリも同じ要領で並べる）
+- [Certify-LMS](https://github.com/Tatsuya-Yamasaki1024/Certify-LMS.git) - マルチ資格対応の資格学習プラットフォームの作成
+- [bookshelf-app](https://github.com/Tatsuya-Yamasaki1024/bookshelf-app.git) - 書籍レビューアプリケーションの作成
+- [laravel-contact-form](https://github.com/Tatsuya-Yamasaki1024/laravel-contact-form.git) - 一般ユーザーが利用する公開のお問い合わせフォーム
 
 ## 🌱 これから挑戦したいこと
 
